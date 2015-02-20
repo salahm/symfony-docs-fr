@@ -208,7 +208,7 @@ Opérateurs logiques
 
 * ``not`` ou ``!``
 * ``and`` ou ``&&``
-* ``or`` pi ``||``
+* ``or`` ou ``||``
 
 Par exemple::
 
